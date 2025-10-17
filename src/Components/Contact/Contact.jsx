@@ -1,10 +1,10 @@
 import React from 'react'
 import './Contact.css'
-import msg_icon from '../../Assets/msg-icon.png'
-import phone_icon from '../../Assets/phone-icon.png'
-import loc_icon from '../../Assets/location-icon.png'
-import mail_icon from '../../Assets/mail-icon.png'
-import white_arrow from '../../Assets/white-arrow.png'
+import msg_icon from '../../assets/msg-icon.png'
+import phone_icon from '../../assets/phone-icon.png'
+import loc_icon from '../../assets/location-icon.png'
+import mail_icon from '../../assets/mail-icon.png'
+import white_arrow from '../../assets/white-arrow.png'
 
 const Contact = () => {
   return (
